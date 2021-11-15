@@ -81,5 +81,6 @@
       "module",
       "typescript"
     ]
-  }
+  },
+  "private": false
 }
