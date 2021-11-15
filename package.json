@@ -1,5 +1,5 @@
 {
-  "name": "@jcgertig/bottom-sheet",
+  "name": "@jgertig/bottom-sheet",
   "version": "4.1.4",
   "description": "A performant interactive bottom sheet with fully configurable options 🚀",
   "main": "lib/commonjs/index",
